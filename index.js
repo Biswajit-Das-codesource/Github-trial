@@ -15,3 +15,7 @@ console.log("footer section added")
 
 
 console.log("login system added")
+
+
+
+console.log("signup page added")
