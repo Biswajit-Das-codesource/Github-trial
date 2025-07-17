@@ -7,3 +7,5 @@ const fun1 = () =>{
     console.log("fun1 added")
 }
 
+
+console.log("my name is rajesh")
