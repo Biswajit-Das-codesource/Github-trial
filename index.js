@@ -9,3 +9,7 @@ const fun1 = () =>{
 
 
 console.log("my name is rajesh")
+
+
+console.log("footer section added")
+
